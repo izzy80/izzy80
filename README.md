@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![Izzy80's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izzy80&theme=vue&area=true&hide_border=true)](https://github.com/izzy80/github-readme-activity-graph)  
   
 <img src="https://github-readme-stats.vercel.app/api?username=izzy80&theme=vue&show_icons=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzy80&layout=compact"/>
 <br>
 
 ## 💻 DEV's log 💻
