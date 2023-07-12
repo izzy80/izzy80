@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 [![Izzy80's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izzy80&theme=vue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-[![Izzy80's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzy80&include_all_commits=true&theme=vue&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Izzy80's GitHub stats](https://github-readme-stats.vercel.app/api?username=izzy80&theme=vue&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
 <br>
 
