@@ -69,9 +69,7 @@
 
 
 ### My Git🕶️
-<img style="height:130px" src="https://streak-stats.demolab.com?user=izzy80&theme=tokyonight-duo&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-<img style="height:130px" src="https://github-readme-stats.vercel.app/api?username=izzy80&theme=vue&show_icons=true&include_all_commits=true&layout=compact"/>
-<img style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzy80&layout=compact"/>
+<img style="height:130px" src="https://streak-stats.demolab.com?user=izzy80&theme=tokyonight-duo&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /><img style="height:130px" src="https://github-readme-stats.vercel.app/api?username=izzy80&theme=vue&show_icons=true&include_all_commits=true&layout=compact"/><img style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzy80&layout=compact"/>
 
 <!-- Contribute Graph --> 
 [![Izzy80's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izzy80&area=true&hide_border=false&color=70A5FD&bg_color=ffffff&line=BF91F3&point=BF91F3&hide_title=true)](https://github.com/izzy80/github-readme-activity-graph)  
