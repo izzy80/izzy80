@@ -6,6 +6,8 @@
   <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Izzy80's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)-->
   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fizzy80&count_bg=%2370A5FD&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ddingddong">
+  <br>
+  <img style="height:130px" src="https://streak-stats.demolab.com?user=izzy80&theme=tokyonight-duo&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
   <!-- 나에 대한 간략한 설명 --> 
   <br>
   <br>
@@ -69,7 +71,8 @@
 
 
 ### My Git🕶️
-<img style="height:130px" src="https://streak-stats.demolab.com?user=izzy80&theme=tokyonight-duo&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /><img style="height:130px" src="https://github-readme-stats.vercel.app/api?username=izzy80&theme=vue&show_icons=true&include_all_commits=true&layout=compact"/><img style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzy80&layout=compact"/>
+<img style="height:130px" src="https://github-readme-stats.vercel.app/api?username=izzy80&theme=vue&show_icons=true&include_all_commits=true&layout=compact"/>
+<img style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzy80&layout=compact"/>
 
 <!-- Contribute Graph --> 
 [![Izzy80's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izzy80&area=true&hide_border=false&color=70A5FD&bg_color=ffffff&line=BF91F3&point=BF91F3&hide_title=true)](https://github.com/izzy80/github-readme-activity-graph)  
