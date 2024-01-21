@@ -51,17 +51,21 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
 <!--<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white">-->
 <br>
-  
+<br>
+<br> 
+
 ### Education🎓
 ###### Samsung Software Academy For Youth 9th `23.01.04 ~ 23.12.29`
 ######  Statistics, Sunshin Women's Univ  `17.03.01 ~ 22.02.24`
 ###### 2020 데이터 청년 캠퍼스 `20.06.22 ~ 20.09.18`
 <br>
+<br> 
 
 ### Blog✍️
 <a href="https://izzy.tistory.com/"><img src="https://img.shields.io/badge/tech blog-EC5219?style=flat&logo=Tistory&logoColor=white&link=https://izzy.tistory.com/"/></a>  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=izzy&theme=default)](https://izzy.tistory.com)
 <br>
+<br> 
 
 ### My Git🕶️
 <img style="height:130px" src="https://github-readme-stats.vercel.app/api?username=izzy80&theme=vue&show_icons=true&include_all_commits=true&layout=compact"/>
