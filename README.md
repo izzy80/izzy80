@@ -63,7 +63,7 @@
 
 ### Blog✍️
 <a href="https://izzy.tistory.com/"><img src="https://img.shields.io/badge/tech blog-EC5219?style=flat&logo=Tistory&logoColor=white&link=https://izzy.tistory.com/"/></a>  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=izzy&theme=default)](https://izzy.tistory.com)
+<!--[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=izzy&theme=default)](https://izzy.tistory.com)-->
 <br>
 <br> 
 
