@@ -56,7 +56,7 @@
 
 ### Education🎓
 ###### Samsung Software Academy For Youth 9th `23.01.04 ~ 23.12.29`
-######  Statistics, Sunshin Women's Univ  `17.03.01 ~ 22.02.24`
+<!--######  Statistics, Sunshin Women's Univ  `17.03.01 ~ 22.02.24` -->
 ###### 2020 데이터 청년 캠퍼스 `20.06.22 ~ 20.09.18`
 <br>
 <br> 
