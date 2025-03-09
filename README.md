@@ -19,38 +19,54 @@
 <br>
 
 ### Skills✏️
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
+##### - Preferred
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
-<!--  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white" />
-  -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-<!--<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">-->
-<!--<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=black"/>-->
+![Spring](https://img.shields.io/badge/spring-236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/springsecurity-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 <br>
-<!--<img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C%2B%2B&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<!-- ### Studying📚 공부하는 것 추가하기 --> 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+##### - Experienced
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<br>
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/-selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+<br>
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+<br>
+
 
 ### Tools💻
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 <br>
-
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
-<!--<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white">-->
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <br>
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 <br> 
 
@@ -67,7 +83,7 @@
 <br>
 <br> 
 
-### Study
+### Study📚
 ###### [Query dsl](https://github.com/izzy80/ex_query_dsl) `24.11.26 ~ 24.11.28`
 ###### [Spring Batch](https://github.com/izzy80/ex_spring_batch) `25.01.12 ~ 25.12.17`
 <br>
