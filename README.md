@@ -68,7 +68,7 @@
 <br> 
 
 ### Study
-###### [HelloToday](https://github.com/izzy80/hello_today) `24.11.26 ~ 24.11.28`
+###### [Query dsl](https://github.com/izzy80/ex_query_dsl) `24.11.26 ~ 24.11.28`
 ###### [Spring Batch](https://github.com/izzy80/ex_spring_batch) `25.01.12 ~ 25.12.17`
 <br>
 <br> 
